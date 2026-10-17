@@ -96,6 +96,8 @@ const invoiceSchema = new mongoose.Schema(
     showSignatory: { type: Boolean, default: true },
     showContactFooter: { type: Boolean, default: true },
     showPaymentHistory: { type: Boolean, default: true },
+    lastModifiedBy: { type: String },
+    lastModifiedAt: { type: String },
   },
   { timestamps: true }
 );
