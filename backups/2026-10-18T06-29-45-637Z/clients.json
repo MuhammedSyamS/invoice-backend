@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "6abe639f5e8a5f6cab75b865",
+    "id": "cli-006",
+    "__v": 0,
+    "address": "Plot 12, Industrial Development Area, Aroor, Alappuzha, Kerala - 688534",
+    "company": "Samudhra Water Solutions",
+    "createdAt": "2026-10-01T13:43:58.608Z",
+    "email": "info@samudhrawater.com",
+    "name": "Operations Director",
+    "notes": "Industrial water filtration & equipment solutions account.",
+    "pan": "",
+    "phone": "+91 97452 34567",
+    "taxId": "32AAMCS9876K1Z8",
+    "updatedAt": "2026-10-01T13:43:58.608Z"
+  },
+  {
+    "_id": "6abe639f5e8a5f6cab75b864",
+    "id": "cli-005",
+    "__v": 0,
+    "address": "11/25B, kanjirapilly P O, chalakudy, Velukkara, Thrissur, Kerala - 680721",
+    "company": "MOOTHEDAN PROJECTS AND POOLS INDIA PRIVATE LIMITED",
+    "createdAt": "2026-10-01T13:43:58.608Z",
+    "email": "moothedanprojects@gmail.com",
+    "name": "Moothedan Management",
+    "notes": "Commercial projects, pool engineering and video production account.",
+    "pan": "",
+    "phone": "95004 38199",
+    "taxId": "32AAAPM5678K1Z3",
+    "updatedAt": "2026-10-01T13:43:58.608Z"
+  },
+  {
+    "_id": "6abe63a05e8a5f6cab75b869",
+    "id": "cli-004",
+    "__v": 0,
+    "address": "Trivandrum, Kerala",
+    "company": "Chef's Cake World",
+    "createdAt": "2026-10-01T13:43:58.608Z",
+    "email": "orders@chefscakeworld.com",
+    "name": "Chef Baker",
+    "notes": "Premium cake studio & marketing deliverables.",
+    "pan": "",
+    "phone": "+91 70127 76730",
+    "taxId": "32AAACC1234K1Z1",
+    "updatedAt": "2026-10-01T13:43:58.608Z"
+  }
+]

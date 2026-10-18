@@ -1,0 +1,15 @@
+{
+  "database": "highphaus_invoices",
+  "createdAt": "2026-10-18T06:29:45.651Z",
+  "collections": {
+    "categories": 8,
+    "bills": 0,
+    "users": 1,
+    "products": 0,
+    "settings": 1,
+    "clients": 3,
+    "expenses": 4,
+    "payments": 0,
+    "invoices": 3
+  }
+}

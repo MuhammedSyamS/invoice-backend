@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "6abcee0b5e8a5f6cab7233e0",
+    "id": "global_settings",
+    "__v": 0,
+    "accountHolderName": "Highphaus Creative Marketing Agency",
+    "accountNumber": "",
+    "address": "",
+    "bankName": "",
+    "billNotesFooter": "",
+    "billPrefix": "BILL",
+    "brandColor": "#6366f1",
+    "companyName": "",
+    "createdAt": "2026-09-30T11:10:02.060Z",
+    "currency": "INR",
+    "defaultPaymentTermsDays": 15,
+    "defaultTaxRate": 0,
+    "email": "",
+    "ifscSwift": "",
+    "invoicePrefix": "INV",
+    "logoUrl": "",
+    "notesFooter": "",
+    "pan": "ABCDE1234F",
+    "phone": "",
+    "pincode": "",
+    "tagline": "",
+    "taxId": "",
+    "theme": "dark",
+    "updatedAt": "2026-09-30T11:10:02.060Z",
+    "upiId": "",
+    "website": ""
+  }
+]

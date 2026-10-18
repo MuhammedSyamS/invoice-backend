@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "6ad3b9467b86fb31a63a8106",
+    "name": "Highphaus Owner",
+    "email": "admin@highphaus.com",
+    "password": "admin123",
+    "role": "Owner",
+    "status": "approved",
+    "approvedBy": "System Seed",
+    "approvedAt": "2026-10-17T18:07:02.699Z",
+    "rejectedReason": null,
+    "lastLoginAt": null,
+    "createdAt": "2026-10-17T18:07:02.711Z",
+    "updatedAt": "2026-10-17T18:07:02.711Z",
+    "__v": 0
+  }
+]
